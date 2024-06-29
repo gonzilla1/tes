@@ -1,1 +1,10 @@
-offline
+host1=$(echo -e "hostkuuuu  1")
+user1=$(echo -e "asu")
+pw1=$(echo -e "1")
+host2=$(echo -e "hostkuuuu 22")
+user2=$(echo -e "asu")
+pw2=$(echo -e "1")
+host3=$(echo -e "hostkuu 3")
+user3=$(echo -e "asu")
+pw3=$(echo -e "1")
+ex=$(echo -e "00-00-0000")
